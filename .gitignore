@@ -1,0 +1,4 @@
+
+# IGNORE BINARIES
+bin/*.o
+bin/*.exe
